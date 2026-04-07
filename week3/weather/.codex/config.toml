@@ -1,0 +1,8 @@
+[mcp_servers.weather]
+command = "uv"
+args = [
+        "--directory",
+        "/Users/shizhuo/Documents/Study/Modern Sofeware Engineering/modern-software-dev-assignments/week3/weather",
+        "run",
+        "weather.py"
+      ]
